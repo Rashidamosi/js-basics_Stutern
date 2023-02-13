@@ -1,7 +1,7 @@
 
 # Javascript Questions
 ### Q1. What runs JavaScript outside the browser?
-#🛠ans: You can run JavaScript console in terminal or any command-line interface using Node. js. It executes JavaScriptoutide a web browser.
+#🛠ans: You can run JavaScript console in terminal or any command-line interface using Node. js. It executes JavaScript outide a web browser.
 
 ### Q2. Name 5 things Javascript can do.
 #🛠ans: 
