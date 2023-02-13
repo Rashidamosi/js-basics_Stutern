@@ -29,9 +29,16 @@
 
 
 ### Q6. Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category.
-#🛠ans: First, dynamically-typed languages perform type checking at runtime, while statically typed languages perform type checking at compile time.
+#🛠ans: First, dynamically-typed languages perform type checking at runtime, while statically typed languages perform type checking at compile time. 
+
+#EXAMPLES: Some examples of statically-typed languages are Java, C, C++, C#, Swift, Scala, Kotlin, Fortran, Pascal, Rust, Go, COBOL, etc.
+
+#Most modern programming languages are dynamically typed. Some examples of dynamically-typed languages are Python, Javascript, Ruby, Perl, PHP, R, Dart, Lua, Objective-C, etc.
+
+
+### Q7. Differentiate between the JavaScript data types ‘null’ and ‘undefined’. 
+#🛠ans: Null is an assigned value. It means nothing. undefined means a variable has been declared but not defined yet.
 
 
 
-### Q7. Differentiate between the JavaScript data types ‘null’ and ‘undefined’ 
-#🛠ans:
+ 
