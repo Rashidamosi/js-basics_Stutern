@@ -40,5 +40,13 @@
 #🛠ans: Null is an assigned value. It means nothing. undefined means a variable has been declared but not defined yet.
 
 
+Examaple:
 
+var test1 = null;
+console.log(test1);
+// null
+
+var test2;
+console.log(test2);
+// undefined
  
